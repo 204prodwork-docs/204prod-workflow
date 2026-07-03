@@ -10,15 +10,15 @@ updated: 2026-06-30
 category: Media Production
 ---
 
-# 🎬 204.prod — Project Workflow Playbook
+# 🎬 204prod — Project Workflow Playbook
 
 > **Dành cho cả team:** Cầm cái này lên là biết phải làm gì ở mỗi dự án, không cần đoán mò.
 > 
-> Dùng kèm với tài liệu chi tiết: [[204.prod - Quy trình Sản xuất Video Chuyên nghiệp]]
+> Dùng kèm với tài liệu chi tiết: [[204prod - Quy trình Sản xuất Video Chuyên nghiệp]]
 
 ---
 
-## 📋 1. Project Types at 204.prod
+## 📋 1. Project Types at 204prod
 
 Mỗi loại dự án có quy trình riêng. Xác định loại project trước khi bắt đầu:
 
@@ -283,5 +283,5 @@ K4: GIAO HÀNG ──► Export → Upload → Archive → Invoice
 
 ## 📎 8. Liên kết
 
-- [[204.prod - Quy trình Sản xuất Video Chuyên nghiệp]] — Tài liệu chi tiết về kỹ thuật từng giai đoạn
+- [[204prod - Quy trình Sản xuất Video Chuyên nghiệp]] — Tài liệu chi tiết về kỹ thuật từng giai đoạn
 - [[Duy Phúc Profile]]

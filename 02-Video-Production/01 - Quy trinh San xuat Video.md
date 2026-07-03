@@ -8,9 +8,9 @@ created: 2026-06-30
 category: Media Production
 ---
 
-# 🎬 Quy Trình Sản Xuất Video Chuyên Nghiệp — 204.prod
+# 🎬 Quy Trình Sản Xuất Video Chuyên Nghiệp — 204prod
 
-Tài liệu này hệ thống hóa quy trình sản xuất video chuẩn công nghiệp, tối ưu hóa cho đội ngũ sản xuất truyền thông của **204.prod**. Mục tiêu là thiết lập một đường ống sản xuất (pipeline) mượt mà, tối giản hóa ma sát giữa các bộ phận (creative, camera, editor, colorist, sound designer), và tối ưu hóa hiệu năng phần cứng vượt trội (như M4 Max Mac).
+Tài liệu này hệ thống hóa quy trình sản xuất video chuẩn công nghiệp, tối ưu hóa cho đội ngũ sản xuất truyền thông của **204prod**. Mục tiêu là thiết lập một đường ống sản xuất (pipeline) mượt mà, tối giản hóa ma sát giữa các bộ phận (creative, camera, editor, colorist, sound designer), và tối ưu hóa hiệu năng phần cứng vượt trội (như M4 Max Mac).
 
 ---
 
@@ -140,7 +140,7 @@ Thực hiện trên phần mềm chuyên dụng **DaVinci Resolve Studio**:
 
 ## 📦 Bàn Giao & Lưu Trữ Dự Án (Delivery & Archiving)
 
-Đây là bước cuối cùng nhưng vô cùng quan trọng để đảm bảo tính chuyên nghiệp lâu dài của **204.prod**.
+Đây là bước cuối cùng nhưng vô cùng quan trọng để đảm bảo tính chuyên nghiệp lâu dài của **204prod**.
 
 ### 1. Xuất file thành phẩm (Mastering)
 *   **Bản phân phối (Delivery File):** Xuất định dạng `H.264 / MP4` hoặc `H.265` với bitrate cao để tối ưu hóa phát sóng trên mạng xã hội (Facebook, YouTube, TikTok, Website).
@@ -153,7 +153,7 @@ Thực hiện trên phần mềm chuyên dụng **DaVinci Resolve Studio**:
 
 ---
 
-## 🛠️ Bộ Công Cụ Đề Xuất Cho Đội Ngũ 204.prod
+## 🛠️ Bộ Công Cụ Đề Xuất Cho Đội Ngũ 204prod
 
 | Vai trò / Nhiệm vụ | Công cụ hàng đầu | Lý do đề xuất |
 | :--- | :--- | :--- |
@@ -166,7 +166,7 @@ Thực hiện trên phần mềm chuyên dụng **DaVinci Resolve Studio**:
 
 ---
 
-## 💡 Lời Khuyên Cho Đội Ngũ Sản Xuất 204.prod
+## 💡 Lời Khuyên Cho Đội Ngũ Sản Xuất 204prod
 
 1.  **Luôn thực hiện Picture Lock trước khi làm màu và âm thanh:** Điều này loại bỏ hoàn toàn việc chỉnh sửa lặp đi lặp lại do thay đổi kịch bản dựng giữa chừng, tiết kiệm hàng chục giờ làm việc của colorist và sound designer.
 2.  **Chuẩn hóa Quy trình đặt tên file ngay từ đầu:** Đảm bảo tất cả các thành viên trong đội ngũ đều hiểu và tuân thủ quy tắc đặt tên thư mục và file. Một file mất dấu hoặc bị ghi đè có thể làm chậm tiến độ của cả một chiến dịch truyền thông lớn.

@@ -1,6 +1,6 @@
-# 204.prod Workflow & Playbook
+# 204prod Workflow & Playbook
 
-Chào mừng đến với không gian làm việc và quy trình chuẩn của **204.prod**. Tài liệu này đóng vai trò là "bản đồ" (tổng quan) giúp mọi thành viên dễ dàng tra cứu, học hỏi và đóng góp vào quy trình làm việc chung.
+Chào mừng đến với không gian làm việc và quy trình chuẩn của **204prod**. Tài liệu này đóng vai trò là "bản đồ" (tổng quan) giúp mọi thành viên dễ dàng tra cứu, học hỏi và đóng góp vào quy trình làm việc chung.
 
 ## 🗂 Cấu trúc tài liệu
 
@@ -27,4 +27,4 @@ Văn hóa làm việc, quy định phối hợp, cách thức giao tiếp và on
   - Nếu bạn thấy điểm chưa hợp lý, bạn có thể bấm vào nút **Edit** (hình cây bút) ngay góc phải màn hình của file đó trên web để sửa, sau đó lưu lại (Commit).
   - Hoặc bạn có thể sử dụng Obsidian để mở toàn bộ thư mục này và sửa offline trên máy cá nhân, hệ thống sẽ tự động đồng bộ (nếu đã setup Obsidian Git).
 
-> *"Quy trình sinh ra để giúp chúng ta làm việc hiệu quả và sáng tạo hơn, không phải để gò bó. Hãy liên tục cải tiến nó!"* - **204.prod**
+> *"Quy trình sinh ra để giúp chúng ta làm việc hiệu quả và sáng tạo hơn, không phải để gò bó. Hãy liên tục cải tiến nó!"* - **204prod**
