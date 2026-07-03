@@ -39,7 +39,7 @@ Mỗi dự án đều đi qua **5 giai đoạn** này. ✅ là việc phải là
 ---
 
 ### 🟢 GIAI ĐOẠN 0: KICKOFF & BRIEF
-> **Người chịu trách nhiệm:** Project Manager / Founder
+> **Người chịu trách nhiệm:** Project Manager / Executive Producer
 
 **Mục tiêu:** Xác định rõ khách hàng muốn gì trước khi ai làm gì.
 
@@ -151,15 +151,18 @@ Mỗi dự án đều đi qua **5 giai đoạn** này. ✅ là việc phải là
 
 | Vai trò | Viết tắt | Trách nhiệm chính | Giai đoạn |
 |:--------|:---------|:------------------|:----------|
-| **Founder / Giám Đốc SX** | Duy Phúc | Duyệt brief, duyệt sản phẩm cuối, ký hợp đồng | 0, 4 |
-| **Project Manager** | PM | Lên lịch, giao việc, đốc tiến độ, liên hệ khách | 0, 1, 4 |
-| **Creative Director** | CD | Ý tưởng, kịch bản, moodboard, định hướng sáng tạo | 1 |
-| **DP / Cameraman** | DP | Quay phim, ánh sáng, bố cục | 2 |
-| **DIT** | DIT | Sao lưu dữ liệu, QC footage, camera report | 2 |
-| **Editor** | ED | Dựng thô → tinh, proxy workflow | 3 |
-| **Colorist** | CL | Color correction + grading | 3 |
-| **Motion Designer** | MD | VFX, animation, lower thirds | 3 |
-| **Sound Designer** | SD | Audio clean, SFX, mix | 3 |
+| **[Executive Producer](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#executive-producer-ep---nhà-sản-xuất-điều-hành)** | EP | Hoạch định ngân sách, pháp lý, duyệt dự án vĩ mô | 0, 4 |
+| **[Project Manager](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#pm-project-manager---quản-lý-dự-án)** | PM | Lên lịch, giao việc, đốc tiến độ, liên hệ khách | 0, 1, 4 |
+| **[Producer](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#producer---sản-xuất)** | PR | Điều hành ngân sách thực tế, logistic, nhân sự set quay | 1, 2 |
+| **[Creative Director](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#cd-creative-director---giám-đốc-sáng-tạo)** | CD | Ý tưởng, kịch bản, moodboard, định hướng sáng tạo | 1 |
+| **[Đạo diễn / Director](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#đạo-diễn-director)** | DIR | Chỉ đạo diễn xuất, quyết định nghệ thuật hiện trường | 2 |
+| **[DOP / Cameraman](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#dop-director-of-photography---đạo-diễn-hình-ảnh)** | DOP | Thiết kế ánh sáng, góc máy, vận hành máy quay | 2 |
+| **[Media](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#media---phóng-viên-ảnh--chuyên-viên-truyền-thông)** | MED | Quay/chụp nhanh, hậu trường, quản trị kênh social | 2, 4 |
+| **[Editor](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#video-editor---biên-tập-dựng-phim)** | ED | Dựng thô → tinh, proxy workflow, khóa hình | 3 |
+| **[Colorist](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#colorist---chuyên-viên-chỉnh-màu)** | CL | Color correction + grading | 3 |
+| **[VFX / Sound Designer](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#sound-designer--mixer---thiết-kế--hòa-âm)** | VFX/SD | Đồ họa, animation, xử lý tạp âm, mix âm thanh | 3 |
+| **[Account](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#account---quản-trị-quan-hệ-khách-hàng)** | ACC | Làm việc khách hàng, chăm sóc hợp đồng, nghiệm thu | 0, 4 |
+| **[Quality Advisor](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#quality-advisor---cố-vấn-chất-lượng)** | QA | Cố vấn, duyệt chất lượng bản nháp cuối trước khi giao | 3, 4 |
 
 > 📌 **Small team rule:** 1 người có thể đảm nhiệm nhiều vai trò. Ví dụ: Editor có thể kiêm Colorist và Sound Designer. Nhưng **không ai bỏ qua bước** — chỉ là 1 người làm nhiều bước.
 
