@@ -9,75 +9,87 @@ updated: 2026-07-05
 category: Media Production
 ---
 
-# Team Workflow Playbook: Cách team 204prod "vào việc"
+# 🧑‍🤝‍🧑 Team Workflow Playbook: Nguyên tắc Phối hợp Nội bộ
 
-Tài liệu này không nói về dự án, mà nói về **chúng ta** - cách các phòng ban, cá nhân trong 204prod ném bóng cho nhau mà không bị rớt. Đây là sổ tay onboarding cho anh em mới, cũng là lời nhắc nhở cho anh em cũ về văn hóa làm việc và nguyên tắc phối hợp.
+Tài liệu này thiết lập các tiêu chuẩn về văn hóa làm việc, quy tắc giao tiếp và hệ thống phân quyền tại **204prod**. Sổ tay này đóng vai trò như một bản Onboarding (Đào tạo hội nhập) cho nhân sự mới, đồng thời là bộ khung tham chiếu (Reference Framework) cho đội ngũ cốt lõi trong việc phối hợp liên phòng ban.
 
 ---
 
-## 1. Nguyên tắc "Bóng trong chân ai?" (Ownership)
+## 1. Hệ thống Phân quyền Trách nhiệm (RACI Matrix)
 
-Ở 204prod, chúng ta làm việc theo cơ chế Ownership (Làm chủ). Nghĩa là ở mỗi giai đoạn, sẽ luôn có một người cầm cờ (Trưởng nhóm giai đoạn đó). 
-- Người cầm cờ có quyền quyết định cuối cùng trong giai đoạn của mình.
-- Người cầm cờ chịu trách nhiệm nếu khâu đó xảy ra lỗi (chứ không đổ lỗi cho khách hàng hay thời tiết).
+Để đảm bảo quy trình vận hành không bị tắc nghẽn, mọi nhiệm vụ tại 204prod đều được phân vai theo nguyên tắc **Ownership (Tính làm chủ)**. Chúng ta sử dụng mô hình quản trị RACI được tinh gọn để phù hợp với môi trường Agency:
 
-| Khâu công việc | Ai đang cầm cờ? | Nhiệm vụ sống còn |
+*   **R - Responsible (Người thực thi):** Người trực tiếp làm công việc đó.
+*   **A - Accountable (Người chịu trách nhiệm chính):** Người có quyền quyết định cuối cùng (Sign-off) và chịu trách nhiệm nếu dự án thất bại hoặc chậm tiến độ. *Lưu ý: Chỉ có DUY NHẤT một (01) người chữ A cho mỗi công việc.*
+*   **C - Consulted (Người cố vấn):** Chuyên gia được tham vấn trước khi đưa ra quyết định (VD: Hỏi DOP về góc máy trước khi chốt kịch bản).
+*   **I - Informed (Người nhận thông tin):** Cần được thông báo khi công việc hoàn thành (VD: Khách hàng, Team Leader).
+
+### Áp dụng RACI vào vòng đời dự án:
+
+| Hạng mục công việc | Accountable (Cầm cờ) | Responsible (Thực thi) |
 |:---|:---|:---|
-| **Chốt deal & Khách hàng** | Account / PM | Tiền phải về, deadline phải thực tế, brief phải rõ ràng. Khách hàng vui vẻ nhưng team không bị ép uổng. |
-| **Sáng tạo & Kịch bản** | Creative Director / Content Lead | Kịch bản phải khả thi. Ý tưởng hay mà không đủ tiền làm thì cũng vứt. |
-| **Bấm máy (Hiện trường)** | Đạo diễn (Director) / DOP | Đạo diễn chốt acting. DOP chốt hình. Đã ra set thì lời đạo diễn là luật. Không cãi nhau trên set. |
-| **Dữ liệu (Data)** | DIT | File mất là đi tong cả dự án. DIT là người gác cổng dữ liệu, có quyền cản bất kỳ ai lấy thẻ nhớ nếu chưa backup xong. |
-| **Hậu kỳ (Post)** | Editor Lead | Nấu món ăn cuối cùng. Gom mọi cục nợ từ hiện trường để biến thành vàng. Quyết định nhịp điệu (Picture Lock). |
+| **Chốt ngân sách & Scope of Work** | Project Manager / Account | PM, Founder |
+| **Kịch bản văn học & Concept** | Creative Director | Copywriter, Creative |
+| **Thực thi Hiện trường (Shoot Day)** | Đạo diễn (Nghệ thuật) / PM (Tiến độ) | DOP, Cam Ops, Gaffer, PA |
+| **An toàn Dữ liệu (Data Security)** | DIT (Data Wrangler) | DIT, Trợ lý Quay phim (AC) |
+| **Dựng phim & Post-production** | Editor Lead | Video Editor, Colorist, Soundman |
 
 ---
 
-## 2. Giao tiếp và Handoff (Chuyền bóng)
+## 2. Tiêu chuẩn Chuyển giao công việc (Handoff Protocols)
 
-Lỗi lớn nhất không nằm ở kỹ năng, mà nằm ở lúc chuyền bóng giữa các team.
+Điểm dễ xảy ra lỗi nhất (Bottleneck) trong quy trình Production là quá trình chuyển giao tài nguyên giữa các bộ phận. Mọi sự phỏng đoán đều dẫn đến chi phí phát sinh.
 
-### Tiền kỳ chuyền cho Hiện trường
-*   Không ném cho team quay một tờ giấy trắng rồi bảo "anh cứ quay đẹp là được".
-*   Phải có **Call Sheet** (ai, ở đâu, lúc mấy giờ) và **Shot List** (quay bao nhiêu góc, cần đồ gì). 
-*   **Thực tế:** PM gửi Call Sheet trước giờ G ít nhất 24 tiếng. Đội quay không nhận được Call Sheet có quyền không xách máy đi.
+### 2.1 Từ Tiền kỳ (Pre-production) ➡️ Hiện trường (Production)
+*   **Không bàn giao bằng miệng.** Mọi thông tin phải được văn bản hóa.
+*   **Tài liệu bắt buộc (Deliverables):** Lịch trình (Call Sheet) và Danh sách góc máy (Shot List).
+*   **Nguyên tắc:** Lịch trình quay (Call Sheet) phải được phát hành (Release) cho toàn bộ ekip tối thiểu 24 giờ trước giờ bấm máy (Call Time).
 
-### Hiện trường chuyền cho Hậu kỳ
-*   Editor không thể ngồi đoán mò xem Đạo diễn thích take nào.
-*   Phải có **Camera Report** (ghi rõ take nào ăn, take nào hỏng) và **Audio Log**.
-*   Khi bàn giao ổ cứng, DIT phải báo cáo rõ "Tổng cộng bao nhiêu GB, source quay bằng máy gì, hệ màu gì" để Editor lên Proxy cho chuẩn.
+### 2.2 Từ Hiện trường (Production) ➡️ Hậu kỳ (Post-production)
+*   **Không bàn giao source thô không nhãn mác.** 
+*   **Tài liệu bắt buộc (Deliverables):** Báo cáo quay (Camera Report), Nhật ký âm thanh (Audio Log) và thông số kỹ thuật file gốc (Resolution, Codec, Color Space).
+*   **Nguyên tắc:** DIT bàn giao ổ cứng trực tiếp cho Editor kèm theo biên bản mô tả dung lượng. Đạo diễn bàn giao Camera Report để Editor biết chính xác cần dùng Take nào (Circled Takes), giảm thiểu thời gian lọc file (Footage Ingestion).
 
-### Hậu kỳ chuyền cho Khách hàng
-*   Không ném bừa một file MP4 dài ngoằng qua Zalo.
-*   Upload lên hệ thống **Frame.io** hoặc Drive, cấp quyền comment rõ ràng. Đặt deadline cho khách hàng: "Anh/chị vui lòng feedback trước ngày X, sau ngày X team sẽ coi như anh chị đã chốt bản này".
-*   Gom feedback lại một lần để sửa, không sửa lắt nhắt mỗi ngày một ý.
-
----
-
-## 3. Sổ tay sinh tồn cho anh em mới (Onboarding)
-
-Mới vào 204prod, anh em cần nhớ 4 chữ: **Chủ động, Cẩn thận**.
-
-### Cần hỏi ai khi bí?
-- **Đọc brief không hiểu ý khách?** -> Túm cổ PM / Account.
-- **Không biết set đèn góc này sao cho đúng mood?** -> Hỏi DOP ngay lập tức.
-- **File premiere bị đỏ (offline), ổ cứng lỗi?** -> Gọi cấp cứu Editor Lead hoặc DIT.
-- **Chưa nhận được cọc, khách hối làm?** -> Dừng tay, nhắn Founder/PM check lại. Nguyên tắc: Không cọc không làm.
-
-### Từ vựng chuyên ngành trong team
-Tránh việc đứng ngớ người ra khi nghe anh em hô hào:
-- **Picture Lock:** Bước khóa dòng thời gian dựng. Lúc này là cấm sửa hình, cấm cắt thêm. Ai muốn sửa hình lúc này thì chuẩn bị tiền mua cà phê xin lỗi cả team (đặc biệt là người làm màu và âm thanh).
-- **Relink:** Nối lại đường dẫn file (thường làm khi chuyển từ file Proxy nhẹ sang file gốc siêu nặng để xuất file).
-- **Take (Cú máy):** Số lần quay lại của một cảnh. Đạo diễn hô "Take 5 là ok" nghĩa là cứ lấy file số 5 mà dùng.
-- **Foley:** Tiếng động tự tạo trong hậu kỳ (tiếng bước chân, tiếng vải cọ xát...) để làm video sống động.
-- **Clear source/Format thẻ:** Xóa sạch thẻ. **TUYỆT ĐỐI KHÔNG** làm điều này nếu chưa có sự xác nhận của người quản lý dữ liệu (DIT) rằng đã copy thành công 2 bản.
+### 2.3 Từ Hậu kỳ (Post-production) ➡️ Khách hàng (Client Review)
+*   **Không gửi file video trực tiếp qua các ứng dụng chat (Zalo, Messenger).**
+*   **Nền tảng chuẩn:** Tải (Upload) bản dựng lên **Frame.io** hoặc các nền tảng có chức năng Timecode Commenting.
+*   **Nguyên tắc:** PM gửi liên kết kèm theo Email ghi rõ thời hạn phản hồi (Feedback Deadline). Yêu cầu khách hàng tổng hợp phản hồi trong 1 lần, tránh tình trạng gửi lắt nhắt nhiều đợt.
 
 ---
 
-## 4. Xử lý khủng hoảng (Troubleshooting cơ bản)
+## 3. Sổ tay Onboarding cho Nhân sự Mới
 
-Không ai muốn, nhưng rủi ro luôn chực chờ:
+Chào mừng bạn đến với 204prod. Trong môi trường nhịp độ nhanh (Fast-paced), sự chủ động và khả năng giao tiếp rõ ràng là chìa khóa để tồn tại. Hãy ghi nhớ 4 nguyên tắc sinh tồn:
 
-*   **Khách hàng nổi giận đòi đền hợp đồng:** PM và Founder lập tức đứng ra. Ekip tuyệt đối không tranh luận tay đôi với khách trên set hay trên group chat.
-*   **Thiết bị quay trục trặc/hư hỏng trên set:** PA (Trợ lý sản xuất) phải luôn có sẵn danh sách các tiệm cho thuê thiết bị để phi xe đi thuê đồ thay thế ngay lập tức. Đừng đứng khóc.
-*   **Trễ deadline vì lý do khách quan (mưa bão, cúp điện):** PM phải báo ngay cho khách hàng NGAY KHI sự cố xảy ra để xin dời lịch, không đợi đến sát giờ giao file mới báo cáo.
+### 3.1 Văn hóa Giao tiếp (Communication Norms)
+*   **"Báo động đỏ" (Escalation):** Nếu có vấn đề nghiêm trọng (Lỗi file ổ cứng, khách hủy lịch, trễ deadline), hãy báo ngay lập tức cho Quản lý dự án (PM) hoặc Founder. **Không được che giấu hoặc đợi đến sát giờ giao file mới báo.**
+*   **Khi gặp bế tắc (Blockers):**
+    *   Không hiểu yêu cầu kịch bản ➡️ Hỏi Creative Director / Đạo diễn.
+    *   Trục trặc thiết bị, setup ánh sáng ➡️ Tham vấn DOP.
+    *   Lỗi phần mềm dựng, mất liên kết file (Media Offline) ➡️ Báo cáo Editor Lead / DIT.
+    *   Tranh chấp về hợp đồng, thanh toán ➡️ Chuyển hướng ngay cho PM.
 
-> Làm media là một môn thể thao đồng đội. Ở 204prod, không có ngôi sao đơn độc. Sản phẩm cuối cùng tỏa sáng là nhờ mồ hôi của tất cả mọi người. Chúc anh em thực chiến vui vẻ!
+### 3.2 Thuật ngữ Chuyên ngành (Glossary)
+Làm quen với các thuật ngữ thường dùng trong hệ thống tài liệu và trao đổi hàng ngày:
+
+*   **Call Time:** Giờ có mặt chính thức tại hiện trường. Hãy luôn đến sớm hơn 15 phút.
+*   **Rolling / Action / Cut:** Khẩu lệnh của Đạo diễn và Trợ lý (AD) trên set. Khi nghe "Rolling", toàn bộ ekip phải giữ im lặng tuyệt đối.
+*   **Picture Lock (Khóa hình):** Cột mốc trong quy trình dựng phim. Sau khi Picture Lock, dòng thời gian (Timeline) không được phép thay đổi để chuyển sang làm màu (Color) và âm thanh (Sound).
+*   **Proxy:** File video chất lượng thấp được tạo ra để dựng mượt mà trên máy tính yếu. Sẽ được kết nối lại (Relink) với file gốc chất lượng cao (RAW/Log) khi xuất bản cuối cùng.
+*   **B-Roll:** Các cảnh quay phụ trợ bổ sung ý nghĩa cho câu chuyện chính (A-Roll / Phỏng vấn).
+*   **Clear Source / Format:** Hành động định dạng (xóa sạch) thẻ nhớ. Tuyệt đối KHÔNG thực hiện nếu chưa có sự xác nhận an toàn từ DIT.
+
+---
+
+## 4. Xử lý Sự cố & Khủng hoảng (Incident Management)
+
+Mọi dự án đều tiềm ẩn rủi ro phát sinh. Cách team xử lý khủng hoảng thể hiện tính chuyên nghiệp (Professionalism) của tổ chức.
+
+*   **Sự cố Khách hàng:** Khách hàng không hài lòng trên set quay hoặc khi xem bản Draft.
+    *   *Hành động:* PM là người duy nhất tiếp nhận thông tin và đàm phán. Ekip kỹ thuật (Quay, Dựng) tuyệt đối không tranh luận tay đôi với khách hàng.
+*   **Sự cố Kỹ thuật:** Lỗi thiết bị, mất dữ liệu.
+    *   *Hành động:* Kích hoạt quy trình dự phòng (Backup Plan). Trợ lý sản xuất (PA) liên hệ đơn vị cho thuê (Rental House) để bổ sung thiết bị thay thế khẩn cấp.
+*   **Sự cố Khách quan (Force Majeure):** Thời tiết xấu, mất điện bối cảnh.
+    *   *Hành động:* PM gửi thông báo chính thức (Official Notice) cho khách hàng để xin dời lịch trình hoặc điều chỉnh kế hoạch, kèm theo bằng chứng cụ thể.
+
+> Làm việc tại Media Agency là môn thể thao đồng đội. Tính chuyên nghiệp không chỉ nằm ở sản phẩm cuối cùng, mà còn ở cách bạn bàn giao công việc cho người đứng sau mình một cách ngăn nắp và khoa học nhất.

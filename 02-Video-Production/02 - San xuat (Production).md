@@ -1,51 +1,68 @@
-# Giai đoạn sản xuất (Production) - Cuộc chiến thực sự
+# 🎥 Giai đoạn Sản xuất (Production): Tiêu chuẩn Vận hành Hiện trường
 
-Giai đoạn tiền kỳ chúng ta ngồi phòng điều hòa vẽ ra giấc mơ, thì giai đoạn sản xuất (hiện trường) chính là lúc chúng ta phải đổ mồ hôi, đối mặt với áp lực thời gian, thời tiết và đủ thứ rủi ro để biến giấc mơ đó thành khung hình thực tế.
+Giai đoạn sản xuất (Shoot Day / On-set) là thời điểm triển khai thực tế mọi kế hoạch đã chốt ở khâu Tiền kỳ. Quá trình này tiêu tốn ngân sách lớn nhất và tiềm ẩn nhiều rủi ro (Operational Risks) nhất. 
 
-Trên set quay, kỹ năng chuyên môn là một chuyện, nhưng **kỷ luật, sự đồng bộ và sức chịu đựng** mới là thứ quyết định ngày quay đó có thành công hay không.
-
----
-
-## 1. Luật "Sắt" trên hiện trường
-
-*   **Thời gian là tiền:** Call Sheet ghi 6:00 sáng có mặt, nghĩa là 6:00 mọi người đã phải đứng ở set với tư thế sẵn sàng, không phải 6:00 mới lết từ giường dậy.
-*   **Tôn trọng chỉ huy:** Đạo diễn (Director) là chỉ huy cao nhất về mặt nghệ thuật. PM/AD là chỉ huy cao nhất về mặt thời gian và hậu cần. Quyết định của họ trên set là cuối cùng. Nếu có tranh cãi, giữ lại lúc họp rút kinh nghiệm, không đứng cãi nhau trước mặt khách hàng và diễn viên.
-*   **Im lặng khi bấm máy:** Khi Trợ lý đạo diễn (AD) hoặc Âm thanh hô "Rolling", toàn bộ ekip phải tuyệt đối im lặng. Tiếng tạch lưỡi, tiếng bước chân hay tiếng điện thoại rung có thể phá hỏng cả một take xuất thần của diễn viên.
+Để tối ưu hóa chi phí và đảm bảo an toàn cho mọi dự án, 204prod áp dụng quy chuẩn vận hành hiện trường nghiêm ngặt, phân tách rõ ràng trách nhiệm theo các "Mặt trận" (Operational Fronts).
 
 ---
 
-## 2. Các mặt trận trên set và người cầm trịch
+## 1. Nguyên tắc Kỷ luật trên Trường quay (Set Etiquette)
 
-### Mặt trận Hậu cần & Điều phối (Control Tower)
-*   **Mục tiêu:** Cỗ máy chạy trơn tru, không ai bị đói, khát, bối cảnh an toàn, đúng giờ đúng việc.
-*   **Ai lo?**
-    *   **[Trợ lý đạo diễn (AD)](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#ad-assistant-director---trợ-lý-đạo-diễn):** Cầm loa đôn đốc mọi người. "10 phút nữa chuyển cảnh nhé anh em!", "Diễn viên makeup xong chưa?". AD là cái đồng hồ báo thức chạy bằng cơm của cả đoàn.
-    *   **[Trợ lý sản xuất (PA)](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#pa-producer-assistant---trợ-lý-sản-xuất):** Lo cơm bưng nước rót, đi mua băng keo, đạo cụ phát sinh, dọn rác. PA là đôi tay đắc lực để bộ phận sáng tạo chuyên tâm làm việc.
-    *   **[Quản lý dự án (PM)](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#pm-project-manager---quản-lý-dự-án):** Đứng cạnh khách hàng để "bơm oxi" cho họ, giải thích cho khách hiểu team đang làm gì, xin phép bối cảnh, dẹp đường khi cần.
+Tính chuyên nghiệp của ekip được đánh giá qua sự tuân thủ 3 nguyên tắc cốt lõi:
 
-### Mặt trận Nghệ thuật & Diễn xuất (The Core)
-*   **Mục tiêu:** Bắt được linh hồn của kịch bản, cảm xúc của diễn viên. Giữ "raccord" (tính liên tục) cho chuẩn để về dựng không bị vấp.
-*   **Ai lo?**
-    *   **[Đạo diễn (Director)](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#đạo-diễn-director):** Ngồi ghế monitor, mổ xẻ cảm xúc. Chỉ đạo diễn viên khóc, cười, đi đứng. Khẩu lệnh: "Action!" và "Cut!". Đạo diễn là người duy nhất chốt "Take này ăn!".
-    *   **[Thư ký trường quay (Script Supervisor)](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#script-supervisor---thư-ký-trường-quay):** Ghi chép điên cuồng. Take 1 diễn viên cầm ly tay trái, thì take 2 quay cận cũng phải cầm tay trái. Sổ tay của Thư ký là bùa hộ mệnh của Editor.
-
-### Mặt trận Hình ảnh & Ánh sáng (The Eyes)
-*   **Mục tiêu:** Khung hình đẹp, ánh sáng đúng mood, nét căng.
-*   **Ai lo?**
-    *   **[Đạo diễn hình ảnh (DOP)](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#dop-director-of-photography---đạo-diễn-hình-ảnh):** Nhìn monitor phụ, chỉ đạo đặt máy ở đâu, gắn lens gì, đánh đèn bao nhiêu %.
-    *   **[Gaffer (Ánh sáng)](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#gaffer---thiết-kế-ánh-sáng):** Bưng bê, giăng đèn, đánh sáng theo ý DOP.
-    *   **[Trợ lý quay phim (AC)](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#ac-assistant-camera---trợ-lý-quay-phim):** Người lo lắp ráp máy, thay lens, và xoay vòng lấy nét (Focus Puller). Khung hình đẹp mà out nét thì coi như vứt.
-
-### Mặt trận Âm thanh (The Ears)
-*   **Mục tiêu:** Thu được tiếng thoại trong vắt, không lẫn tiếng quạt, tiếng còi xe máy hay tiếng gió rít.
-*   **Ai lo?**
-    *   **[Soundman](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#soundman---thu-âm-hiện-trường):** Gắn mic cài áo cẩn thận, cầm sào boom vươn ra xa bắt tiếng mà không được để bóng mic lọt vào khung hình. Nhớ đánh Slate (clapboard) để về dựng đồng bộ hình-tiếng.
-
-### Mặt trận An ninh Dữ liệu (The Vault)
-*   **Mục tiêu:** "Thà gãy chân còn hơn mất file". Dữ liệu là tài sản lớn nhất của cả một ngày quay tốn hàng chục/trăm triệu.
-*   **Ai lo?**
-    *   **[Kỹ thuật viên dữ liệu (DIT)](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#dit-digital-imaging-technician---kỹ-thuật-viên-hình-ảnh-số):** Vận hành máy tính tại set. Nhận thẻ nhớ -> Copy ra ổ 1 -> Copy ra ổ 2 -> Xác nhận an toàn -> Báo AC format thẻ. Nếu rảnh, tranh thủ xuất proxy hoặc cân màu nháp gửi đạo diễn xem. Không ai được quyền giục DIT làm nhanh, an toàn là trên hết.
+*   **Tuân thủ Call Time (Giờ tập trung):** Lịch trình Call Sheet là mệnh lệnh. 6:00 AM Call Time đồng nghĩa với việc nhân sự phải có mặt, chuẩn bị thiết bị xong và sẵn sàng vận hành tại thời điểm đó.
+*   **Chain of Command (Hệ thống Chỉ huy):**
+    *   **Về Nghệ thuật (Creative):** Đạo diễn (Director) là quyết định cuối cùng.
+    *   **Về Tiến độ & Hậu cần (Logistics):** Project Manager (PM) và Trợ lý Đạo diễn (AD) nắm quyền điều phối.
+    *   *Lưu ý:* Mọi ý kiến đóng góp, phản biện kỹ thuật phải được thảo luận trước khi chốt set quay. Không tranh cãi, trì hoãn tiến độ trước mặt khách hàng (Client) và diễn viên (Talent).
+*   **Im lặng khi ghi hình (Absolute Silence):** Khẩu lệnh "Standby", "Rolling" (Máy chạy) và "Action" (Diễn) yêu cầu toàn bộ ekip giữ im lặng tuyệt đối. Mọi tiếng ồn (điện thoại, bước chân) đều có thể làm hỏng cảnh quay và tăng chi phí hậu kỳ.
 
 ---
 
-> Đừng hy vọng mọi thứ trên hiện trường sẽ diễn ra hoàn hảo 100% như trên giấy. Trời sẽ mưa, đèn sẽ cháy bóng, diễn viên sẽ đến trễ. Khả năng **tùy cơ ứng biến** nhưng vẫn **giữ vững chất lượng cốt lõi** mới là đẳng cấp của ekip 204prod. Xong việc, dọn sạch bối cảnh như lúc mới tới, và về nhà an toàn!
+## 2. Tiêu chuẩn Vận hành theo các Khối Chức năng
+
+Hiện trường được chia thành 5 khối chức năng độc lập nhưng phối hợp đồng bộ. Mỗi khối có quyền tự quyết cao nhất trong phạm vi chuyên môn của mình.
+
+### 🛡️ Khối Hậu cần & Điều phối (Control Tower)
+*   **Mục tiêu:** Kiểm soát tiến độ theo Call Sheet, xử lý sự cố phát sinh, duy trì thể trạng ekip và giao tiếp với khách hàng.
+*   **Nhân sự đảm nhiệm:**
+    *   **[Trợ lý Đạo diễn (AD - Assistant Director)](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#ad-assistant-director---trợ-lý-đạo-diễn):** Đốc thúc tiến độ (Time-keeper). Thông báo thời gian chuyển cảnh, setup và gọi diễn viên.
+    *   **[Trợ lý Sản xuất (PA - Production Assistant)](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#pa-producer-assistant---trợ-lý-sản-xuất):** Chịu trách nhiệm F&B (ăn uống), đạo cụ (props) và mua sắm khẩn cấp thiết bị hỏng hóc.
+    *   **[Project Manager (PM)](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#pm-project-manager---quản-lý-dự-án):** Quản trị rủi ro tổng thể, làm việc trực tiếp với chính quyền địa phương (nếu có) và chăm sóc khách hàng tại khu vực Video Village.
+
+### 🎬 Khối Sáng tạo & Diễn xuất (The Core)
+*   **Mục tiêu:** Chỉ đạo diễn xuất đạt yêu cầu của Brief, duy trì tính liên tục của hành động (Raccord) phục vụ cho Hậu kỳ.
+*   **Nhân sự đảm nhiệm:**
+    *   **[Đạo diễn (Director)](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#đạo-diễn-director):** Hướng dẫn tâm lý nhân vật. Là người duy nhất đưa ra quyết định chốt cảnh ("Good Take", "Check the gate").
+    *   **[Thư ký Trường quay (Script Supervisor)](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#script-supervisor---thư-ký-trường-quay):** Ghi chép chi tiết vào Log Book: vị trí đạo cụ, trục nhìn, thoại thay đổi. Đây là tài liệu cứu cánh cho Editor để ghép nối mượt mà.
+
+### 💡 Khối Hình ảnh & Ánh sáng (The Eyes)
+*   **Mục tiêu:** Cấu trúc khung hình (Framing), thiết kế ánh sáng (Lighting Design) và đảm bảo thông số kỹ thuật (Exposure, Focus, Color Space) đúng tiêu chuẩn dự án.
+*   **Nhân sự đảm nhiệm:**
+    *   **[Đạo diễn Hình ảnh (DOP - Director of Photography)](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#dop-director-of-photography---đạo-diễn-hình-ảnh):** Thiết kế ngôn ngữ hình ảnh, chỉ đạo ánh sáng.
+    *   **[Thiết kế Ánh sáng (Gaffer)](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#gaffer---thiết-kế-ánh-sáng):** Tính toán tải điện năng lượng lưới, triển khai đánh đèn theo sơ đồ của DOP.
+    *   **[Trợ lý Quay phim (AC - Assistant Camera)](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#ac-assistant-camera---trợ-lý-quay-phim):** Lắp đặt (Build) hệ thống máy quay, quản lý thẻ nhớ, ống kính và kéo nét (Focus Pulling) chuẩn xác. Khung hình dù đẹp nhưng out-focus (trượt nét) được xem như không đạt yêu cầu.
+
+### 🎙️ Khối Âm thanh (The Ears)
+*   **Mục tiêu:** Thu thập nguồn âm thanh sạch, độ phân giải cao (24-bit/48kHz), loại bỏ tạp âm môi trường và đồng bộ thời gian (Timecode).
+*   **Nhân sự đảm nhiệm:**
+    *   **[Thu âm Hiện trường (Soundman / Boom Operator)](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#soundman---thu-âm-hiện-trường):** Quản lý mic cài áo (Lavalier) ẩn, vận hành mic sào (Boom). Trách nhiệm đánh Slate (Clapperboard) để đồng bộ hình và tiếng trong giai đoạn hậu kỳ.
+
+### 💾 Khối Quản trị Dữ liệu (The Vault)
+*   **Mục tiêu:** Đảm bảo an toàn tuyệt đối cho toàn bộ dữ liệu (Footage & Audio) được tạo ra trong ngày quay. Áp dụng quy chuẩn Data Integrity cao nhất.
+*   **Nhân sự đảm nhiệm:**
+    *   **[Kỹ thuật viên Hình ảnh Số (DIT - Digital Imaging Technician)](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#dit-digital-imaging-technician---kỹ-thuật-viên-hình-ảnh-số):** Vận hành trạm quản trị dữ liệu (Data Station).
+
+---
+
+## 3. SOP Bảo mật & Sao lưu Dữ liệu (Backup Rule: 3-2-1)
+
+Đây là quy trình sinh tử của mọi dự án sản xuất. DIT là người nắm quyền phủ quyết (Veto power) đối với việc xóa định dạng (Format) bất kỳ thiết bị lưu trữ nào.
+
+**Quy trình 4 bước bắt buộc:**
+1.  **Nhận & Chép (Ingest):** AC bàn giao thẻ nhớ đầy cho DIT. DIT gắn nhãn "Chưa chép" (Red tape) và tiến hành copy toàn bộ thư mục gốc (Root folder) vào **Ổ cứng SSD số 1 (Master Drive)**.
+2.  **Kiểm tra tính toàn vẹn (Verification):** DIT sử dụng phần mềm chuyên dụng (Hedge, Silverstack) hoặc kiểm tra mã Checksum để đảm bảo file chép ra không bị hỏng (Corrupted), kiểm tra ngẫu nhiên khung hình xem có bị nhiễu hạt (Artifacts) không.
+3.  **Sao lưu phân tán (Redundancy):** Tiến hành chép tự động từ Ổ cứng số 1 sang **Ổ cứng số 2 (Backup Drive)**.
+4.  **Giải phóng thẻ (Clearance):** Dán nhãn "Đã chép/An toàn" (Green tape) lên thẻ nhớ. Lúc này, DIT mới chính thức thông báo cho AC để tiến hành Format thẻ trên máy quay. 
+
+*Lưu ý an ninh: Cuối ngày quay, Ổ số 1 và Ổ số 2 phải được giao cho 2 nhân sự khác nhau di chuyển trên 2 phương tiện riêng biệt về văn phòng, phòng ngừa rủi ro mất cắp vật lý.*
