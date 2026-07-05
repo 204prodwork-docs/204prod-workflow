@@ -6,285 +6,105 @@ tags:
   - 204prod
   - team-guide
 created: 2026-06-30
-updated: 2026-06-30
+updated: 2026-07-05
 category: Media Production
 ---
 
-# 🎬 204prod — Project Workflow Playbook
+# Sổ tay Quản lý dự án 204prod (Project Workflow Playbook)
 
-> **Dành cho cả team:** Cầm cái này lên là biết phải làm gì ở mỗi dự án, không cần đoán mò.
-> 
-> Dùng kèm với tài liệu chi tiết: [[204prod - Quy trình Sản xuất Video Chuyên nghiệp]]
+Chào anh em PM và các team leader, đây là cẩm nang sống còn để đưa một dự án từ lúc "khách mới nảy số" cho đến khi "ting ting" tiền về tài khoản. Quy trình này được đúc kết để chúng ta làm việc đồng điệu, tránh việc một người phải "gánh" cả team hoặc dự án bị bóp nghẹt ở khâu cuối cùng.
 
----
-
-## 📋 1. Project Types at 204prod
-
-Mỗi loại dự án có quy trình riêng. Xác định loại project trước khi bắt đầu:
-
-| Loại | Ví dụ | Thời gian điển hình | Ai lead? |
-|:-----|:------|:-------------------|:---------|
-| **🅰️ TVC / Video Quảng Cáo** | TVC sản phẩm, Brand film | 2–4 tuần | Creative Director |
-| **🅱️ Social Content (Reels/Shorts/TikTok)** | Content daily, Trend video | 1–3 ngày | Content Lead |
-| **🅲️ Photo / Campaign Shoot** | Lookbook, Sản phẩm, Event | 3–7 ngày | Photographer Lead |
-| **🅳️ Motion Graphics / Animation** | Explainer, Logo animation | 5–14 ngày | Motion Designer |
-| **🅴️ Hybrid (Video + Photo + Graphic)** | Full campaign | 3–6 tuần | Project Manager |
+Cứ bám sát trình tự dưới đây. Đừng phỏng đoán, đừng nhảy cóc. Khâu trước chưa xong thì tuyệt đối không đẩy sang khâu sau.
 
 ---
 
-## ✅ 2. THE ACTUAL WORKFLOW — Từ A đến Z
+## 1. Nhận diện "quái vật": Chúng ta đang làm dự án loại gì?
 
-Mỗi dự án đều đi qua **5 giai đoạn** này. ✅ là việc phải làm, 🟡 là bàn giao (bắt buộc có trước khi sang giai đoạn tiếp theo).
+Mỗi con dự án sẽ có "tính nết" và timeline khác nhau. Nhận brief xong là phải xếp loại ngay để phân bổ nguồn lực cho chuẩn:
 
----
-
-### 🟢 GIAI ĐOẠN 0: KICKOFF & BRIEF
-> **Người chịu trách nhiệm:** Project Manager / Executive Producer
-
-**Mục tiêu:** Xác định rõ khách hàng muốn gì trước khi ai làm gì.
-
-- [ ] **K0.1** Gặp khách / nhận brief từ khách hàng
-- [ ] **K0.2** Điền **Creative Brief** (điền mẫu bên dưới)
-- [ ] **K0.3** Xác định loại dự án (A/B/C/D/E)
-- [ ] **K0.4** Xác định deadline + ngân sách
-- [ ] **K0.5** Assign team members cho từng vai trò
-- [ ] 🟡 **Bàn giao:** Brief đã được duyệt → file `01_PRE_PRODUCTION/00_Brief_v1.pdf`
+*   **Dự án A (TVC / Brand Video):** Hàng nặng đô. Kéo dài 2–4 tuần. Đòi hỏi độ tỉ mỉ cực cao. Leader chốt đơn: **Creative Director**.
+*   **Dự án B (Social / Viral Content):** Hàng đánh nhanh thắng nhanh (Reels, TikTok). Quay dựng quay vòng trong 1–3 ngày. Leader chốt đơn: **Content Lead**.
+*   **Dự án C (Photo Campaign):** Lookbook, chụp sản phẩm, sự kiện. Cần 3–7 ngày. Leader chốt đơn: **Photographer Lead**.
+*   **Dự án D (Motion / Animation):** Clip explainers, diễn hoạt logo. Thường mất 5–14 ngày. Leader chốt đơn: **Motion Designer**.
+*   **Dự án E (Hybrid / Tích hợp):** Chơi tất cả các món trên vào một chiến dịch (vừa quay, vừa chụp, vừa lên bài). Kéo dài 3–6 tuần. Thuyền trưởng phải là **Project Manager (PM)** cứng tay.
 
 ---
 
-### 🔵 GIAI ĐOẠN 1: TIỀN KỲ (Pre-Production)
-> **Lead:** Creative Director / Content Lead
+## 2. Đường ray dự án: 5 trạm dừng bắt buộc
 
-- [ ] **1.1** Viết kịch bản (Script) → Creative team
-- [ ] **1.2** Lên Shot List → DP / Cameraman
-- [ ] **1.3** Vẽ Storyboard (nếu là TVC / Hybrid)
-- [ ] **1.4** Tạo Moodboard (Pinterest, Refer) → gửi khách duyệt
-- [ ] **1.5** Location Scouting & Casting (nếu cần)
-- [ ] **1.6** Lên Call Sheet (lịch quay chi tiết)
-- [ ] **1.7** Technical Specs: Chốt codec, fps, resolution, color space
-- [ ] 🟡 **Bàn giao:** `01_PRE_PRODUCTION/` gồm:
-  - `Script_v1.docx`
-  - `Shot_List.xlsx`
-  - `Moodboard.pdf`
-  - `Call_Sheet.pdf`
-  - `Tech_Specs.pdf`
+Mọi dự án đều phải đi qua 5 trạm này. Điểm mấu chốt: **Không có "Deliverables" (sản phẩm bàn giao) thì không qua trạm.**
 
----
+### Trạm 0: Kickoff & Brief (Chốt yêu cầu)
+*   **Thuyền trưởng:** PM / Executive Producer
+*   **Tinh thần:** Lúc này khách còn mông lung, nhiệm vụ của chúng ta là kéo họ xuống mặt đất, chốt rõ ngân sách, deadline và mong muốn thực sự.
+*   **Việc cần làm:**
+    - [ ] Gặp khách/Họp online để khai thác triệt để yêu cầu.
+    - [ ] Điền full biểu mẫu Creative Brief (đừng bỏ trống bất kỳ mục nào quan trọng).
+    - [ ] Chốt loại dự án, ngân sách chốt hạ, deadline sống còn.
+    - [ ] Lên danh sách nhân sự (ai làm gì, ai chịu trách nhiệm khâu nào).
+*   **Vé qua trạm:** Bản `00_Brief_v1.pdf` có chữ ký/email approve của khách hàng lưu ở `01_PRE_PRODUCTION/`.
 
-### 🟡 GIAI ĐOẠN 2: SẢN XUẤT (Production / Shoot Day)
-> **Lead:** DP / Production Manager
+### Trạm 1: Tiền kỳ (Pre-production)
+*   **Thuyền trưởng:** Creative Director / Content Lead
+*   **Tinh thần:** Chuẩn bị trên bàn càng kỹ, ra set quay càng nhàn. Lười khâu này là ra hiện trường trả giá bằng máu và tiền.
+*   **Việc cần làm:**
+    - [ ] Lên kịch bản văn học (Script) chi tiết.
+    - [ ] Đạo diễn / DOP lên góc máy (Shot List) và vẽ Storyboard (nếu là TVC).
+    - [ ] Lên Moodboard để khách hàng hình dung được tone & mood hình ảnh.
+    - [ ] Khảo sát bối cảnh (đi thực tế, chụp ảnh về), chốt cast diễn viên.
+    - [ ] PM lên Lịch trình ngày quay (Call Sheet).
+    - [ ] Tổ quay chốt thông số: Quay hệ màu gì, độ phân giải bao nhiêu, frame rate sao.
+*   **Vé qua trạm:** Thư mục `01_PRE_PRODUCTION/` phải có đủ Script, Shot List, Moodboard, Call Sheet và Tech Specs. Khách duyệt Script mới đi tiếp.
 
-#### 🕐 Trước ngày quay (H-1):
-- [ ] **2.0a** Kiểm tra thiết bị: pin, thẻ nhớ, ống kính, gimbal
-- [ ] **2.0b** Format tất cả thẻ nhớ (đã backup nếu có dữ liệu cũ)
-- [ ] **2.0c** Đồng bộ timecode (Tentacle Sync)
-- [ ] **2.0d** Gửi Call Sheet cho cả ekip
+### Trạm 2: Sản xuất hiện trường (Production)
+*   **Thuyền trưởng:** DOP / Production Manager
+*   **Tinh thần:** Trận chiến thực sự. Áp lực thời gian, bối cảnh, con người. Nguyên tắc tối thượng: An toàn dữ liệu số một.
+*   **Việc cần làm (Trước ngày quay):**
+    - [ ] Check đồ, sạc pin, lau lens, format sạch thẻ (sau khi chắc chắn đã backup dự án cũ).
+    - [ ] Bắn Call Sheet cho cả ekip.
+*   **Việc cần làm (Trên set):**
+    - [ ] Chạy đèn, setup máy, quay nháp check phơi sáng/nét.
+    - [ ] Bấm máy dập theo Shot List.
+    - [ ] **DIT Backup (SỐNG CÒN):** Thẻ nhớ tháo ra -> Chép vô SSD 1 -> Chép qua SSD 2. Không được chép thẳng từ thẻ ra 2 ổ cùng lúc, cũng không được format thẻ khi chưa kiểm tra file ổ 1. Note rõ shot nào ăn (circled takes).
+    - [ ] Âm thanh check mic boom, mic cài áo kĩ càng.
+*   **Vé qua trạm:** Dữ liệu nhân đôi ở 2 ổ cứng độc lập (không nằm cùng 1 balo mang về), cộng với `Camera_Report.xlsx` rõ ràng.
 
-#### 🎬 Ngày quay:
-- [ ] **2.1** Check-in cả ekip, điểm danh
-- [ ] **2.2** Setup ánh sáng theo sơ đồ
-- [ ] **2.3** Quay take đầu → DP kiểm tra exposure, focus, WB
-- [ ] **2.4** Quay theo Shot List
-- [ ] **2.5** **DIT (bắt buộc):** 
-  - Copy footage từ thẻ → SSD (bản 1)
-  - Copy từ SSD → HDD/ổ cứng dự phòng (bản 2)
-  - Đánh dấu circled takes vào Camera Report
-- [ ] **2.6** QC footage: kiểm tra focus, audio, WB ngay tại trường
-- [ ] **2.7** Thu âm: kiểm tra Lav + Boom, ghi WAV 24-bit/48kHz
-- [ ] 🟡 **Bàn giao:** 
-  - Toàn bộ footage gốc (ít nhất 2 bản)
-  - `Camera_Report.xlsx`
-  - `Audio_Log.txt`
+### Trạm 3: Hậu kỳ (Post-production)
+*   **Thuyền trưởng:** Editor Lead
+*   **Tinh thần:** Gọt giũa và kể chuyện. Đây là lúc phép màu xuất hiện, nhưng chỉ khi dữ liệu gọn gàng.
+*   **Việc cần làm:**
+    - [ ] Tổ chức thư mục chuẩn (Ingest), tạo Proxy nếu file quá nặng. Đồng bộ hình - tiếng.
+    - [ ] Lên bản dựng thô (Rough Cut) bám sát kịch bản để đạo diễn xem trước.
+    - [ ] Lên bản dựng tinh (Fine Cut) chỉnh nhịp. Chốt **Picture Lock** (khóa hình). *Note kỹ: Khóa hình xong tuyệt đối không sửa lắt nhắt nhịp cắt nữa.*
+    - [ ] Bơm màu (Color Grading) và làm kỹ xảo/chữ (VFX).
+    - [ ] Xử lý âm thanh (Sound Design): Lọc nhiễu, chèn SFX, nhạc, cân âm lượng (-14 LUFS cho mạng xã hội).
+    - [ ] Xuất file draft ném lên Frame.io hoặc Drive cho khách vào "hành".
+*   **Vé qua trạm:** Khách comment chán chê và ra quyết định "Final Approved".
 
----
-
-### 🟣 GIAI ĐOẠN 3: HẬU KỲ (Post-Production)
-> **Lead:** Editor
-
-#### 🗂️ Ingestion (Ngay sau khi có footage):
-- [ ] **3.1** Tạo thư mục dự án theo template chuẩn
-- [ ] **3.2** Transcode proxy (nếu RAW/10-bit → ProRes Proxy 1080p)
-- [ ] **3.3** Đồng bộ audio (timecode hoặc waveform sync)
-- [ ] **3.4** Import vào DaVinci Resolve / Premiere
-
-#### ✂️ Dựng:
-- [ ] **3.5** Rough Cut (dựng thô) → đúng kịch bản
-- [ ] **3.6** Gửi rough cut cho đạo diễn / PM duyệt
-- [ ] **3.7** Fine Cut (dựng tinh) → chỉnh pacing, frame-accurate
-- [ ] **3.8** 🔒 **Picture Lock** → không sửa hình nữa
-
-#### 🎨 Làm màu & Hiệu ứng:
-- [ ] **3.9** Color Correction (match camera, cân bằng exposure)
-- [ ] **3.10** Color Grading (phong cách màu)
-- [ ] **3.11** VFX / Motion Graphics (lower thirds, intro)
-
-#### 🔊 Âm thanh:
-- [ ] **3.12** Dialogue clean (noise reduction)
-- [ ] **3.13** SFX / Foley (thêm tiếng động)
-- [ ] **3.14** Music (chọn nhạc nền, cắt theo cao trào)
-- [ ] **3.15** Audio Mix (cân bằng -14 LUFS cho social)
-
-#### 📤 Review:
-- [ ] **3.16** Export draft → upload Frame.io
-- [ ] **3.17** Gửi link review cho team + khách hàng
-- [ ] **3.18** Nhận feedback, sửa → v2, v3...
-- [ ] **3.19** ✅ **Client Approved**
-- [ ] 🟡 **Bàn giao:** Timeline đã Picture Lock + Mixdown
+### Trạm 4: Bàn giao và Đóng máy (Delivery & Archive)
+*   **Thuyền trưởng:** Editor / PM
+*   **Tinh thần:** Giao hàng xịn, lấy tiền gọn và dọn dẹp nhà cửa.
+*   **Việc cần làm:**
+    - [ ] Xuất bản H.264 nhẹ cho khách post mạng, và bản ProRes 422 HQ để cất tủ.
+    - [ ] Bắn link tải cho khách qua MASV/Drive.
+    - [ ] Gửi hóa đơn, giục thanh toán nốt phần còn lại.
+    - [ ] **Archive (Quan trọng):** Dùng tính năng Archive của phần mềm để gom hết file rác, chép project gốc lên Cloud (Backblaze B2) hoặc NAS. Xóa cache ổ cứng máy trạm.
+*   **Vé qua trạm:** Tiền về đủ tài khoản, ổ cứng máy trạm trống trải sẵn sàng đón dự án mới.
 
 ---
 
-### 🟤 GIAI ĐOẠN 4: BÀN GIAO & LƯU TRỮ (Delivery & Archive)
-> **Lead:** Editor / PM
+## 3. Quản lý Rủi ro (Đừng để mất bò mới lo làm chuồng)
 
-- [ ] **4.1** Export master: ProRes 422 HQ (lưu trữ)
-- [ ] **4.2** Export delivery: H.264/MP4 (giao khách, social)
-- [ ] **4.3** Upload bản delivery cho khách (MASV / Google Drive / Wetransfer)
-- [ ] **4.4** Archive project: DaVinci/Project Manager → gom all source
-- [ ] **4.5** Dọn file rác, nén thư mục project
-- [ ] **4.6** Đẩy archive lên Backblaze B2 / NAS
-- [ ] **4.7** Gửi email bàn giao + invoice cho khách
-- [ ] 🟡 **Hoàn thành** ✅
+Anh em đọc kỹ mấy lỗi kinh điển này để né nhé, team bị dính nhiều rồi:
 
----
-
-## 👥 3. Role & Responsibility Matrix
-
-| Vai trò | Viết tắt | Trách nhiệm chính | Giai đoạn |
-|:--------|:---------|:------------------|:----------|
-| **[Executive Producer](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#executive-producer-ep---nhà-sản-xuất-điều-hành)** | EP | Hoạch định ngân sách, pháp lý, duyệt dự án vĩ mô | 0, 4 |
-| **[Project Manager](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#pm-project-manager---quản-lý-dự-án)** | PM | Lên lịch, giao việc, đốc tiến độ, liên hệ khách | 0, 1, 4 |
-| **[Producer](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#producer---sản-xuất)** | PR | Điều hành ngân sách thực tế, logistic, nhân sự set quay | 1, 2 |
-| **[Creative Director](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#cd-creative-director---giám-đốc-sáng-tạo)** | CD | Ý tưởng, kịch bản, moodboard, định hướng sáng tạo | 1 |
-| **[Đạo diễn / Director](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#đạo-diễn-director)** | DIR | Chỉ đạo diễn xuất, quyết định nghệ thuật hiện trường | 2 |
-| **[DOP / Cameraman](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#dop-director-of-photography---đạo-diễn-hình-ảnh)** | DOP | Thiết kế ánh sáng, góc máy, vận hành máy quay | 2 |
-| **[Media](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#media---phóng-viên-ảnh--chuyên-viên-truyền-thông)** | MED | Quay/chụp nhanh, hậu trường, quản trị kênh social | 2, 4 |
-| **[Editor](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#video-editor---biên-tập-dựng-phim)** | ED | Dựng thô → tinh, proxy workflow, khóa hình | 3 |
-| **[Colorist](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#colorist---chuyên-viên-chỉnh-màu)** | CL | Color correction + grading | 3 |
-| **[VFX / Sound Designer](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#sound-designer--mixer---thiết-kế--hòa-âm)** | VFX/SD | Đồ họa, animation, xử lý tạp âm, mix âm thanh | 3 |
-| **[Account](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#account---quản-trị-quan-hệ-khách-hàng)** | ACC | Làm việc khách hàng, chăm sóc hợp đồng, nghiệm thu | 0, 4 |
-| **[Quality Advisor](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#quality-advisor---cố-vấn-chất-lượng)** | QA | Cố vấn, duyệt chất lượng bản nháp cuối trước khi giao | 3, 4 |
-
-> 📌 **Small team rule:** 1 người có thể đảm nhiệm nhiều vai trò. Ví dụ: Editor có thể kiêm Colorist và Sound Designer. Nhưng **không ai bỏ qua bước** — chỉ là 1 người làm nhiều bước.
+| Bệnh hay gặp | Hậu quả | Thuốc chữa |
+|:---|:---|:---|
+| **Cả nể không ép khách chốt Brief/Script** | Khách đổi ý lúc dựng, sửa đi sửa lại 7749 lần, dự án lỗ sấp mặt. | Bắt buộc ký hoặc email confirm "Đã duyệt" mới làm bước tiếp theo. Hợp đồng ghi rõ sửa tối đa 2 lần. |
+| **Ra set quên check/format thẻ** | Đang quay giữa chừng đầy thẻ, phải ngồi mót xóa từng file cũ. Cực kỳ dễ xóa nhầm file mới. | Có checklist check thiết bị tối hôm trước (Ngày H-1). Trách nhiệm thuộc về AC/DIT. |
+| **Mất file gốc (Ác mộng)** | Đền HĐ, mất khách, uy tín xuống sông xuống biển. | Ép chặt rule DIT: Nguyên tắc sao lưu 3-2-1. Không bao giờ giao phó toàn bộ file gốc cho 1 ổ cứng duy nhất. |
+| **Đổi source lúc đang Color/Sound** | Phải render lại, làm lại màu, chệch nhịp nhạc. | Quán triệt luật **Picture Lock**. Đã chốt nhịp cắt là cấm đụng vào hình, chỉ tập trung màu và tiếng. |
+| **Làm xong vứt project lộn xộn** | Nửa năm sau khách xin lại file hoặc cần sửa xíu thì khóc thét vì không biết file gốc quăng đâu. | Bàn giao xong là đóng gói Project Archive ném lên NAS/Cloud ngay trong 24h. |
 
 ---
 
-## 📁 4. Folder Template (Copy-Paste Ready)
-
-Mỗi dự án mới → tạo folder theo cấu trúc này:
-
-```
-📁 [TEN_DU_AN]_[YYYYMMDD]/
-├── 📁 01_PRE_PRODUCTION/
-│   ├── 📄 00_Brief_v1.pdf
-│   ├── 📄 Script_v1.docx
-│   ├── 📄 Shot_List.xlsx
-│   ├── 📄 Moodboard.pdf
-│   ├── 📄 Call_Sheet.pdf
-│   └── 📄 Tech_Specs.pdf
-├── 📁 02_FOOTAGE/
-│   ├── 📁 CAM_A/
-│   ├── 📁 CAM_B/
-│   └── 📁 DRONE/
-├── 📁 03_AUDIO/
-│   ├── 📁 FIELD_RECORD/
-│   ├── 📁 VOICE_OVER/
-│   ├── 📁 MUSIC/
-│   └── 📁 SFX/
-├── 📁 04_PROJECT_FILES/
-│   ├── 📁 DaVinci_Resolve/
-│   └── 📁 After_Effects/
-├── 📁 05_ASSETS/
-│   ├── 📁 Logo/
-│   ├── 📁 Font/
-│   └── 📁 Templates/
-├── 📁 06_EXPORTS/
-│   ├── 📁 Draft_v1/
-│   ├── 📁 Draft_v2/
-│   └── 📁 Final/
-└── 📁 07_DELIVERY/
-    └── 📄 [TEN_DU_AN]_Final_H264.mp4
-```
-
----
-
-## 📝 5. Creative Brief Template (Điền cho mỗi dự án)
-
-```markdown
-# CREATIVE BRIEF — [Tên dự án]
-
-## 1. THÔNG TIN CƠ BẢN
-- **Khách hàng:** 
-- **Loại dự án:** TVC / Social / Photo / Motion / Hybrid
-- **Deadline:** 
-- **Ngân sách:** 
-- **PM:** 
-- **Team assigned:** 
-
-## 2. MỤC TIÊU
-- Thông điệp chính muốn truyền tải:
-- Đối tượng mục tiêu:
-- Nền tảng phân phối (YouTube / TikTok / Facebook / TV):
-
-## 3. YÊU CẦU SÁNG TẠO
-- Tone & Feel (vui / cảm động / nghiêm túc / trẻ trung):
-- Màu sắc chủ đạo:
-- Âm nhạc gợi ý:
-- Tham khảo (link):
-
-## 4. LOGISTICS
-- Địa điểm quay:
-- Diễn viên:
-- Thời gian quay dự kiến:
-- Thiết bị đặc biệt (drone, gimbal, crane, etc.):
-
-## 5. PHÊ DUYỆT
-- [ ] Khách hàng duyệt brief
-- [ ] Duyệt kịch bản
-- [ ] Duyệt sản phẩm cuối
-```
-
----
-
-## ⚡ 6. Quick Reference: Flowchart
-
-```
-KHÁCH GỬI BRIEF
-      │
-      ▼
-K0: KICKOFF ──► Phân loại dự án ──► Assign team
-      │
-      ▼
-K1: TIỀN KỲ ──► Script → Shot List → Moodboard → Location
-      │
-      ▼
-K2: SẢN XUẤT ──► Chuẩn bị → Quay → DIT (3-2-1 backup) → QC
-      │
-      ▼
-K3: HẬU KỲ ──► Proxy → Dựng → Picture Lock → Color → Sound → Review
-      │
-      ▼
-K4: GIAO HÀNG ──► Export → Upload → Archive → Invoice
-      │
-      ▼
-      ✅ DONE
-```
-
----
-
-## 🚨 7. Common Pitfalls & How to Avoid
-
-| Vấn đề | Hậu quả | Cách tránh |
-|:-------|:---------|:-----------|
-| Không có brief rõ ràng | Làm đi làm lại, mất thời gian | **Ép khách duyệt brief trước khi làm bất cứ gì** |
-| Quên format thẻ nhớ | Hết dung lượng giữa chừng | Checklist trước ngày quay (bước 2.0b) |
-| Mất footage | Thảm họa | **DIT 3-2-1 backup — không bao giờ bỏ qua** |
-| Chỉnh màu trước Picture Lock | Làm lại toàn bộ | **🔒 Picture Lock xong mới chuyển colorist** |
-| Giao file sai format | Khách không mở được | Hỏi khách: "Anh/chị cần file gì? MP4 hay ProRes?" |
-| Quên archive dự án | Sau này không tìm được để chỉnh sửa | Sau bàn giao: **bắt buộc archive trong 24h** |
-
----
-
-## 📎 8. Liên kết
-
-- [[204prod - Quy trình Sản xuất Video Chuyên nghiệp]] — Tài liệu chi tiết về kỹ thuật từng giai đoạn
-- [[Duy Phúc Profile]]
+> Dòng thời gian là của anh em. Sự sắp xếp khoa học sẽ giúp team không bị bào mòn thể lực và cảm xúc. Cố gắng giữ nhịp và support nhau thật tốt ở các điểm giao cắt giữa các bộ phận!

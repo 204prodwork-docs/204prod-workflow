@@ -1,39 +1,39 @@
-# 3. Giai Đoạn Hậu Kỳ (Post-Production)
+# Giai đoạn hậu kỳ (Post-production)
 
-Khâu hậu kỳ là nơi mảnh ghép từ Tiền Kỳ và Sản Xuất được ráp lại, gọt giũa và nâng tầm thành một tác phẩm nghệ thuật có sức mạnh truyền tải thông điệp.
+Giai đoạn hậu kỳ là khâu ráp nối, hoàn thiện và đóng gói toàn bộ tư liệu hình ảnh, âm thanh từ hiện trường để tạo nên video thành phẩm hoàn chỉnh bám sát định hướng sáng tạo ban đầu.
 
-## Quy Trình Xử Lý & Bàn Giao
+## Quy trình xử lý và bàn giao hậu kỳ
 
-### 1. Nhập Liệu, Đồng Bộ & Sắp Xếp (Ingest & Organize)
-* **Ý nghĩa:** Chống thất thoát file và xây móng vững chắc. Nếu file sắp xếp lộn xộn, cả quá trình dựng sẽ trở thành thảm họa tìm kiếm.
-* **Nhân sự thực hiện:**
-  * **[DIT](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#dit-digital-imaging-technician---kỹ-thuật-viên-hình-ảnh-số) / [Assistant Editor](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#assistant-editor---trợ-lý-biên-tập):** Chép toàn bộ ổ cứng từ hiện trường vào máy trạm (Server NAS hoặc Mac Studio/MacBook Pro M4 Max).
-  * **[Assistant Editor](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#assistant-editor---trợ-lý-biên-tập):** Chia folder theo ngày quay/máy quay/âm thanh. Đồng bộ hình ảnh với âm thanh bằng phần mềm, xuất file EDL/XML để chuẩn bị cho giai đoạn chỉnh sửa.
+### 1. Nhập liệu, đồng bộ và sắp xếp (Ingest & Organize)
+*   **Mục tiêu:** Lưu trữ file an toàn và xây dựng sơ đồ thư mục khoa học để chuẩn bị cho quá trình dựng mượt mà.
+*   **Nhân sự thực hiện:**
+    *   **[DIT](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#dit-digital-imaging-technician---kỹ-thuật-viên-hình-ảnh-số) / [Assistant Editor](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#assistant-editor---trợ-lý-biên-tập):** Chép toàn bộ file quay chụp từ ổ cứng hiện trường vào hệ thống lưu trữ trung tâm của team (NAS hoặc máy Mac cấu hình cao).
+    *   **[Assistant Editor](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#assistant-editor---trợ-lý-biên-tập):** Sắp xếp tư liệu theo ngày quay, camera, âm thanh. Đồng bộ hình và tiếng, xuất các tệp tin danh sách EDL hoặc XML để chuyển giao cho Editor.
 
-### 2. Dựng Phim Thô & Khóa Hình (Offline Editing & Picture Lock)
-* **Ý nghĩa:** Định hình câu chuyện, nhịp điệu và cảm xúc. Việc khóa hình (Picture Lock) là bắt buộc để các team VFX/Màu không phải làm đi làm lại nếu đổi cảnh.
-* **Nhân sự thực hiện:**
-  * **[Video Editor](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#video-editor---biên-tập-dựng-phim):** Nhận Proxy file hoặc làm trực tiếp với file gốc. Cắt ghép theo ghi chú của [Script Supervisor](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#script-supervisor---thư-ký-trường-quay). Trình chiếu nháp (Rough Cut) cho Đạo diễn xem.
-  * **[Đạo diễn](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#đạo-diễn-director) & [Post Producer](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#post-producer---nhà-sản-xuất-hậu-kỳ):** Kiểm duyệt, yêu cầu sửa đổi nhịp điệu, và chốt khóa hình (Picture Lock).
+### 2. Dựng phim thô và khóa hình (Offline editing & Picture lock)
+*   **Mục tiêu:** Định hình mạch kể chuyện, kiểm soát thời lượng và nhịp điệu của video trước khi chuyển giao cho các khâu đồ họa, cân màu.
+*   **Nhân sự thực hiện:**
+    *   **[Video Editor](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#video-editor---biên-tập-dựng-phim):** Làm việc trên file Proxy hoặc file gốc, thực hiện cắt ráp theo kịch bản văn học và ghi chép hiện trường. Xuất bản dựng thô (Rough Cut) đầu tiên để lấy ý kiến Đạo diễn.
+    *   **[Đạo diễn](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#đạo-diễn-director) & [Post Producer](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#post-producer---nhà-sản-xuất-hậu-kỳ):** Kiểm duyệt, yêu cầu sửa đổi nhịp dựng để đạt bản dựng tinh cuối cùng, tiến hành khóa hình (Picture Lock) để cố định dòng thời gian dựng.
 
-### 3. Đồ Họa, Kỹ Xảo Hình Ảnh & Chữ Nghệ Thuật (VFX & Motion)
-* **Ý nghĩa:** Biến những cái không có thật thành có thật trên màn hình và hỗ trợ hiển thị thông tin bằng text đẹp mắt.
-* **Nhân sự thực hiện:**
-  * **[VFX / Motion Artist](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#vfx--motion-artist---nghệ-sĩ-kỹ-xảo--đồ-họa):** Sau khi có bản Picture Lock, bắt tay vào tách phông xanh, xóa rác bối cảnh, tracking chữ (Typography), chèn logo và làm Intro/Outro.
+### 3. Đồ họa và kỹ xảo hình ảnh (VFX & Motion)
+*   **Mục tiêu:** Tẩy xóa rác bối cảnh, thực hiện hiệu ứng phông xanh, thiết kế chữ động (Typography) và logo theo đúng bộ nhận diện thương hiệu.
+*   **Nhân sự thực hiện:**
+    *   **[VFX / Motion Artist](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#vfx--motion-artist---nghệ-sĩ-kỹ-xảo--đồ-họa):** Tiếp nhận bản dựng đã khóa hình để xử lý kỹ xảo hình ảnh, làm intro, outro và ghép các lớp đồ họa chuyển động cần thiết.
 
-### 4. Chỉnh Màu (Color Correction & Grading)
-* **Ý nghĩa:** Phủ cảm xúc và làm đẹp cho hình ảnh. Giai đoạn này đòi hỏi sự phối hợp khắt khe về thông số chuẩn màn hình.
-* **Nhân sự thực hiện:**
-  * **[Colorist](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#colorist---chuyên-viên-chỉnh-màu):** Nhận file XML/AAF từ Editor để link ngược lại với file gốc RAW chất lượng cao. Cân bằng trắng, chỉnh sáng đều các cảnh (Color Correction) và áp tone màu điện ảnh (Color Grading).
-  * **[DOP](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#dop-director-of-photography---đạo-diễn-hình-ảnh):** Thường sẽ ngồi cùng Colorist trong buổi Final Grade để duyệt xem màu sắc có đúng ý đồ chiếu sáng trên set quay hay không.
+### 4. Chỉnh màu (Color correction & Grading)
+*   **Mục tiêu:** Đưa hình ảnh về dải phơi sáng cân bằng tự nhiên và áp tông màu điện ảnh phù hợp với chủ đề video.
+*   **Nhân sự thực hiện:**
+    *   **[Colorist](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#colorist---chuyên-viên-chỉnh-màu):** Nhập file XML hoặc AAF từ Editor để liên kết lại với file gốc RAW chất lượng cao. Tiến hành cân bằng phơi sáng (Color Correction) và thực hiện chỉnh màu nghệ thuật (Color Grading) trên phần mềm DaVinci Resolve.
+    *   **[DOP](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#dop-director-of-photography---đạo-diễn-hình-ảnh):** Đồng hành cùng Colorist ở khâu duyệt màu cuối cùng để kiểm soát thẩm mỹ đồng nhất với ý đồ ánh sáng hiện trường.
 
-### 5. Thiết Kế Âm Thanh & Hòa Âm (Sound Design & Mix)
-* **Ý nghĩa:** "Âm thanh là 50% trải nghiệm điện ảnh". Hình đẹp mà tiếng vang, rè thì toàn bộ video vẫn bị đánh giá là rẻ tiền.
-* **Nhân sự thực hiện:**
-  * **[Sound Designer & Mixer](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#sound-designer--mixer---thiết-kế--hòa-âm):** Xóa tạp âm, chèn tiếng động Foley (tiếng bước chân, rót nước), phối nhạc nền (BGM). Cuối cùng hòa âm tổng thể đạt chuẩn âm lượng phát sóng (ví dụ -14 LUFS cho Youtube).
+### 5. Thiết kế âm thanh và hòa âm (Sound design & Mix)
+*   **Mục tiêu:** Loại bỏ tạp âm thoại, thiết kế môi trường âm thanh sống động và cân bằng âm lượng phát sóng chuẩn quốc tế.
+*   **Nhân sự thực hiện:**
+    *   **[Sound Designer & Mixer](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#sound-designer--mixer---thiết-kế--hòa-âm):** Xử lý làm sạch thoại, thu âm tiếng động Foley bổ trợ, phối ghép nhạc nền bản quyền và thực hiện hòa âm tổng thể đạt mức âm lượng chuẩn (ví dụ: -14 LUFS cho YouTube và mạng xã hội).
 
-### 6. Duyệt Sản Phẩm Cuối Cùng & Bàn Giao
-* **Ý nghĩa:** Chốt lại với khách hàng và đóng gói dự án lưu trữ lâu dài.
-* **Nhân sự thực hiện:**
-  * **[Post Producer](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#post-producer---nhà-sản-xuất-hậu-kỳ):** Gom các file lại (Video có màu + Âm thanh Mix final) upload lên Frame.io cho khách duyệt. Chuyển tiếp phản hồi của khách cho Editor sửa.
-  * **[Video Editor](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#video-editor---biên-tập-dựng-phim):** Xuất bản Master (định dạng không nén) và bản Delivery (định dạng H264/MP4 nhẹ để gửi lên mạng). Tiến hành xóa file rác, archive toàn bộ Project nén lại chuyển cho DIT lưu ổ cứng.
+### 6. Duyệt sản phẩm cuối và bàn giao
+*   **Mục tiêu:** Nhận phản hồi hoàn thiện từ khách hàng và đóng gói lưu trữ dự án.
+*   **Nhân sự thực hiện:**
+    *   **[Post Producer](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#post-producer---nhà-sản-xuất-hậu-kỳ):** Ghép nối hình ảnh và âm thanh thành phẩm cuối cùng, tải lên hệ thống Frame.io để gửi khách hàng duyệt và truyền đạt ý kiến sửa đổi cho team dựng.
+    *   **[Video Editor](../03-Team-Guidelines/02%20-%20Vai%20tro%20va%20Nhiem%20vu.md#video-editor---biên-tập-dựng-phim):** Sửa lỗi theo feedback, xuất file Master chất lượng cao (ProRes) và file Delivery (H.264), xóa file tạm và bàn giao toàn bộ dữ liệu dự án cho bộ phận sao lưu để archive lưu trữ lâu dài.
